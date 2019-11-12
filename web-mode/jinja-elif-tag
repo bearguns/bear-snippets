@@ -1,0 +1,4 @@
+# key: %elif
+# name: Jinja else if tag {% elif %}
+# --
+{% elif %} $0

@@ -1,0 +1,4 @@
+# key: %if
+# name: Jinja if tag {% if %}
+# --
+{% if ${1} %} $0

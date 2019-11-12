@@ -1,0 +1,5 @@
+# key: %else
+# name: Jinja else tag {% else %}
+# contributor: Sean Brage
+# --
+{% else %} $0

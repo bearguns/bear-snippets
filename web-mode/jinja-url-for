@@ -1,0 +1,5 @@
+# key: urlff
+# name: Jinja URL for file url_for('dir', filename='path/to/file')
+# contributor: Sean Brage
+# --
+"{{ url_for('${1}', filename='${2}') }}"$0
